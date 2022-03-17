@@ -1,8 +1,8 @@
 # CS20 Web Programming
 CS20 Class Assignments
 
-##### Midterm Project:
-https://jluo01.github.io/CS20Projects/HomePage/homepage.html
+##### Midterm Project: 
+[outThere Boutique Travel Agency](https://jluo01.github.io/CS20Projects/HomePage/homepage.html)
 
 ##### JSON Song List:
 https://mrpamplemousse.com/hw9/songlist.html

@@ -7,6 +7,9 @@ CS20 Class Assignments
 ##### JSON Song List:
 https://mrpamplemousse.com/hw9/songlist.html
 
+##### Jade Delight (Online Takeout Order): 
+https://mrpamplemousse.com/hw8/jade_delight.html
+
 ##### Food Images Slideshow (using jQuery):
 https://mrpamplemousse.com/hw7/slideshow.html
 

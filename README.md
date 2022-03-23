@@ -7,13 +7,13 @@ CS20 Class Assignments
 ##### JSON Song List:
 https://mrpamplemousse.com/hw9/songlist.html
 
-##### Jade Delight (Online Takeout Order): 
+##### Jade Delight (Online Order for Takeout): 
 https://mrpamplemousse.com/hw8/jade_delight.html
 
 ##### Food Images Slideshow (using jQuery):
 https://mrpamplemousse.com/hw7/slideshow.html
 
-##### Amicable Number: 
+##### Amicable Number (using Javascript): 
 https://mrpamplemousse.com/hw6/amicableNum.html
 
 ##### Lottery Simulation:

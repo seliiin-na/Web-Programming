@@ -16,9 +16,9 @@ https://mrpamplemousse.com/hw7/slideshow.html
 ##### Amicable Number (using Javascript): 
 https://mrpamplemousse.com/hw6/amicableNum.html
 
-##### Lottery Simulation:
+##### Lottery Simulation (using Javascript):
 https://mrpamplemousse.com/hw5/lotterySim.html
 
-##### Joe's Hotdog Stand:
+##### Joe's Hotdog Stand (using Javascript):
 https://mrpamplemousse.com/hw4/joes_hotdog.html
 

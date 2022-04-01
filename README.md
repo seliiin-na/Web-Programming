@@ -4,6 +4,9 @@ CS20 Class Assignments
 ##### Midterm Project: 
 [outThere Boutique Travel Agency](https://jluo01.github.io/CS20Projects/HomePage/homepage.html)
 
+#### Get Weather part1 (using AJAX & API)
+https://mrpamplemousse.com/hw10/apiFun.html
+
 ##### JSON Song List:
 https://mrpamplemousse.com/hw9/songlist.html
 

@@ -1,0 +1,19 @@
+{
+  "name": "helloapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "herokuDemo.js",
+  "scripts": {
+  "start": "node herokuDemo.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}

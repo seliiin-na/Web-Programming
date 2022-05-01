@@ -1,7 +1,10 @@
 # CS20 Web Programming
 CS20 Class Assignments
 
-##### Midterm Project: 
+#### Final Project: 
+[food.log Diary Tracker APP](https://junxinggu.com/Final/homepage.php)
+
+#### Midterm Project: 
 [outThere Boutique Travel Agency](https://jluo01.github.io/CS20Projects/HomePage/homepage.html)
 
 #### Get Weather part1 (using AJAX & API)

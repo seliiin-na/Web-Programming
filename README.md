@@ -1,5 +1,5 @@
 # CS20 Web Programming
-CS20 Class Assignments
+Web Programming Projects/Assignments:
 
 #### Final Project: 
 [food.log Diary Tracker APP](https://junxinggu.com/Final/homepage.php)
